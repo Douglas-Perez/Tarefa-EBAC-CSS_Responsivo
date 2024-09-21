@@ -25,6 +25,7 @@ header h1 {
 
 body {
     background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-attachment: fixed;
 }
 
 main {
